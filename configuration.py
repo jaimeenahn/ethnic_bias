@@ -115,8 +115,8 @@ configuration = {
                         "Ιράκ", "Ιρλανδία", "Ιράν", "Σαουδική Αραβία", "Ρωσία","Βιετνάμ","Ταϊλάνδη","Αυστραλία",
                         "Ισπανία","Τουρκία","Ισραήλ","Ιταλία","Αίγυπτος","Σομαλία","Ινδία","Βραζιλία","Κολομβία",
                         "Ελλάδα","Αφγανιστάν","Κούβα","Συρία"],
-        'template_path': 'templates/templates_gr.txt',
-        'occ_path': 'templates/occ_gr.txt',
+        'template_path': 'templates/templates_el.txt',
+        'occ_path': 'templates/occ_el.txt',
         'MSK': 103
     },
     'th':{

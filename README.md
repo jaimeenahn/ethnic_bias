@@ -2,6 +2,10 @@
 This repository contains the code and data for the paper "Mitigating Language-Dependent Ethnic Bias in BERT" (EMNLP 2021)
 
 ## Setup
+
+Python 3.7
+
+For externel libraries,
 ```python
 pip install -r requirements.txt
 ```
@@ -22,7 +26,7 @@ Before the evaluation, check `configuration.py` and set the model and evaluation
 
 ### Evaluation Script
 
-If you have any custom model trained for this task, you should the path to the trained model as argument. Unless, the code will load pretrained model from the transformers hub.
+If you have any custom model trained for this task, you should the path to the trained model as argument (endswith `.pt`). Unless, the code will load pretrained model from the transformers hub.
 
 ```python
 export LANG=de
